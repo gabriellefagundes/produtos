@@ -1,4 +1,4 @@
-# Podcast Website de produtos
+# Projeto Website de produtos
 
 ## 📋 Sobre o projeto
 
