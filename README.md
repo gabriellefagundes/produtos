@@ -18,3 +18,5 @@ Website criado nas aulas de Fundamentos de desenvolvimento web.  Nessas aulas, o
 * Visual Studio Code
 * Git 
 * Git Hub
+* HTML5
+* CSS3
