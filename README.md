@@ -1,26 +1,31 @@
 # Projeto Website de produtos
 
+## 🚀 Começando
+ 
+Nesse projeto, foi criado um website de produtos na matéria de:
+ * Fundamentos de desenvolvimento Web.
+
 ## 📋 Sobre o projeto
 
- O projeto de website de produtos foi realizado na seguinte matéria:
- * Fundamentos de desenvolvimento Web.
+Projeto criado para trabalho de FDW e ter uma noção de como criar um website.
 
 ## Como podemos utilizar esse projeto?
 
- Esse projeto pode ser utilizado como exemplo para criar sites, de vendas online, presencial, etc.
+ Esse projeto pode ser utilizado como exemplo para criar sites de vendas online, presencial, etc.
 
  ## Descrição do projeto
 
-Website criado nas aulas de Fundamentos de desenvolvimento web.  Nessas aulas, o professor trabalhou a criação de website como aprendizagem de Visual Studio Code. Depois adicionamos esse projeto no Git Hub.
+Nas aulas, o professor apresentou a criação de website como aprendizagem de Visual Studio Code. Depois foi adicionado esse projeto no Git Hub.
 
 ## Técnicas e tecnologias utilizadas
 
 * Visual Studio Code
-* Git 
+* Git Bash
 * Git Hub
 * HTML5
 * CSS3
+* Live Server (A extensão Live Server permite criar um servidor local através do VSCode. Com ele, é cortado a necessidade de sempre que fizer uma alteração no código atualizar o navegador.)
 
 ## ✍🏻Autores
-| [<img loading="gaby.jpeg" src="gaby.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
+| [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
 | :---: 
